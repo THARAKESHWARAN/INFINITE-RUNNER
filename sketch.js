@@ -218,8 +218,3 @@ function reset() {
   monkey.x = cam.body.position.x - 250;
 
 }
-
-function preloader() {
-  var preloader = document.getElementById("preloader");
-  preloader.style.display = none;
-}
